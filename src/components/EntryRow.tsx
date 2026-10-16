@@ -18,7 +18,7 @@ export function EntryRow({ entry, onDelete }: EntryRowProps) {
           {entry.bmi.toFixed(1)}{" "}
           <span className={`text-sm ${categoryColor[category]}`}>{category}</span>
         </p>
-        <p className="text-xs text-zinc-500">
+        <p className="text-xs text-zinc-400">
           {entry.weightKg} kg · {entry.heightCm} cm · {date}
         </p>
       </div>
