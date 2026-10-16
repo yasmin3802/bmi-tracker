@@ -2,7 +2,7 @@
 
 A small React app to calculate your BMI live, save entries, and track progress toward a goal weight.
 
-**Live demo:** ADD-VERCEL-LINK-LATER
+**Live demo:** https://vercel.com/yasmin19/bmi-tracker
 
 ![BMI Tracker screenshot](docs/screenshot.png)
 
@@ -13,6 +13,7 @@ A small React app to calculate your BMI live, save entries, and track progress t
 - Delete any entry
 - Goal tracker with remaining kg and a progress bar
 - Accessible: labelled inputs, live regions, named buttons
+- Lighthouse accessibility score: 100
 
 ## Tech stack
 
